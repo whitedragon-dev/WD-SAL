@@ -1,6 +1,6 @@
 whitedragon-dev Source-Available License v1.0 (WD-SAL v1.0)
 
-Copyright (c) [Year] [Copyright Holder Name]
+Copyright (c) 2026-2030 whitedragon-dev
 
 Permission is hereby granted, free of charge, to any person or entity obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, and distribute the Software for non-commercial purposes, subject to the following conditions:
 
@@ -39,7 +39,7 @@ Permission is hereby granted, free of charge, to any person or entity obtaining 
 
 11. SEVERABILITY. If any provision of this license is held to be unenforceable or invalid under applicable law, the remaining provisions shall continue in full force and effect, and the unenforceable provision shall be reformed to the minimum extent necessary to make it enforceable while preserving the original intent.
 
-12. GOVERNING LAW. This license shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles. Any legal action arising under this license shall be brought exclusively in the courts located in [Your City, Your Country].
+12. GOVERNING LAW. This license shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of laws principles. Any legal action arising under this license shall be brought exclusively in the courts located in San Francisco, California, United States.
 
 13. NO WAIVER. The failure of the copyright holder to enforce any right or provision of this license shall not constitute a waiver of future enforcement of that right or provision.
 
