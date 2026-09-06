@@ -31,7 +31,7 @@ Permission is hereby granted, free of charge, to any person or entity obtaining 
 
 7. INDEMNIFICATION. To the maximum extent permitted by applicable law, you agree to defend, indemnify, and hold harmless the copyright holder and any contributors from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable legal fees) arising out of or in any way connected with your use, modification, or distribution of the Software. This indemnification obligation survives termination of this license.
 
-8. COMMERCIAL USE RESTRICTION. Commercial use of the Software is strictly prohibited for any party other than the copyright holder unless a separate, written commercial license agreement is obtained directly from the copyright holder. Inquiries may be directed to the copyright holder.
+8. COMMERCIAL USE RESTRICTION. Commercial use of the Software is strictly prohibited for any party other than the copyright holder unless a separate, written commercial license agreement is obtained directly from the copyright holder. Inquiries may be directed to the copyright holder at contact@whitedragon-dev.org.
 
 9. RESTRICTION ON LICENSING BY THIRD PARTIES. No party other than the copyright holder may sublicense, relicense, or otherwise distribute the Software under any terms other than those expressly provided in this license. Any attempt by a third party to impose additional or different license terms on the Software, or to grant any sublicense under this license, is void and constitutes a material breach of this license. The copyright holder retains the sole and exclusive right to authorize any use of the Software beyond the scope of this license.
 
